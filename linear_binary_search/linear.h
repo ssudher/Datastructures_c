@@ -1,0 +1,1 @@
+int linear_s(int, int[]);
